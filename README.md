@@ -69,7 +69,7 @@ Installation
 Install from Github
 
 ``` {.text}
-git clone https://github.com/ocpm/ocpa.git
+git clone https://github.com/Brain515/MOPN.git
 cd ocpa
 pip install .
 ```
